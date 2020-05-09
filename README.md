@@ -4,7 +4,7 @@ GURPS Character Sheet の日本語化ファイル
 
 # 日本語化の手順
 
-Windows 10 64-bits の C:\Program Files\ に CGSをインストールした場合を例に説明。
+Windows 10 64-bit の C:\Program Files\ に CGSをインストールした場合を例に説明。
 
 - https://github.com/richardwilkes/gcs/README.md の手順に従ってGCS をインストールする
 - ja.i18n ファイルを C:\Program Files\GCS\app\i18n にコピーする (管理者権限必要)
@@ -22,4 +22,4 @@ Windows 10 64-bits の C:\Program Files\ に CGSをインストールした場�
 - 一部訳語を修正しています(例 : Armor Divisor の訳語を「徹甲除数」ではなくより適切と考えられる訳語「装甲除数」に訂正)
 - 翻訳されていない箇所が残っています
 - 文脈上の都合上、訳語がおかしなところがある場合があります。正確性は保証できません
-- 誤った訳語もあるかもしれません。そのときはお手数ですがご指摘またはプルリクエストをお願います
+- 誤った訳語も多数あるかもしれません。そのときはお手数ですがご指摘またはプルリクエストをお願います
